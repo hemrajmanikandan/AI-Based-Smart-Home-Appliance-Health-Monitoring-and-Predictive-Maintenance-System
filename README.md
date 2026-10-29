@@ -1,0 +1,2 @@
+# AI-Based-Smart-Home-Appliance-Health-Monitoring-and-Predictive-Maintenance-System
+This project integrates Embedded Systems, IoT, Edge Computing, Artificial Intelligence, and Predictive Analytics to create a reliable smart home monitoring platform that improves appliance reliability, reduces maintenance costs, minimizes unexpected failures, and enhances energy efficiency through proactive decision-making.
